@@ -1,0 +1,19 @@
+{
+    "name": "efarsoft/ulid",
+    "description": "Ulid Generate For PHP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Efarsoft\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EfarSoft",
+            "email": "efarhost@foxmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
